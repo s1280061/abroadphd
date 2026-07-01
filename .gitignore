@@ -1,0 +1,5 @@
+# ローカルのClaude設定・作業ファイルはリポジトリに含めない
+.claude/
+*.tmp
+Thumbs.db
+.DS_Store

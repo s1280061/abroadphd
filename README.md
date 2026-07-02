@@ -22,6 +22,9 @@
 - 🗂 **[master.csv](master.csv)** … 全50件の一覧（22項目：前職・社会人年数・入学時年齢・奨学金・英語力ほか）
 - 🔗 **[references/references.md](references/references.md)** … 参照した全URL
 
+### 🎯 おまけ（留学準備）
+- **[IELTS勉強法_社会人向け.md](IELTS勉強法_社会人向け.md)** … 働きながらIELTS（Academic）を攻略する実践ガイド。時間の作り方・セクション別攻略・教材・週次スケジュール・事例からの学びまで
+
 ---
 
 ## 🇯🇵 国内（26件）

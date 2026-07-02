@@ -60,23 +60,24 @@
 
 ## 🌍 海外（24件）
 
-### 退職して博士（16件）
-- [ちゅうげん（リクルート→Penn State）](海外/退職して博士/ちゅうげん.md)
-- [tkm2261 / Takami Sato（→UC Irvine）](海外/退職して博士/tkm2261_Takami_Sato.md)
-- [Ryo Kitamura（電機メーカー→Clemson）](海外/退職して博士/Ryo_Kitamura.md)
-- [Tatsuyuki Sekine（宇宙tech→Hamburg）](海外/退職して博士/Tatsuyuki_Sekine.md)
-- [Inoue（Web広告→Minnesota）](海外/退職して博士/Inoue.md)
-- [Lupinus（日本語教育→Hawaii）](海外/退職して博士/Lupinus.md)
-- [Yuko Suzuki（芸能→Imperial・37歳）](海外/退職して博士/Yuko_Suzuki.md)
-- [Masaki Adachi（企業研究職→Oxford）](海外/退職して博士/Masaki_Adachi.md)
-- [加々美（文科省→MIT）](海外/退職して博士/加々美.md)
-- [明田悠希（化学メーカー→Northwestern）](海外/退職して博士/明田悠希.md)
-- [根来葉子（ホテル人事→Penn State）](海外/退職して博士/根来葉子.md)
-- [NorwegianWood（勤務医→NTNU）](海外/退職して博士/NorwegianWood.md)
-- [Kazuki / 一輝（重工→Imperial・航空宇宙）](海外/退職して博士/Kazuki_一輝.md)
-- [理系留学のすゝめ chem_phd_ca（→UBC）](海外/退職して博士/理系留学のすゝめ_chem_phd_ca.md)
-- [Aishwarya（ホテル人事→LSE）](海外/退職して博士/Aishwarya.md)
-- [Gohar Irfan C.（Microsoft→MIT）](海外/退職して博士/Gohar_Irfan_C.md)
+### 🔴 退職して博士（16件）
+> 🔴 = 社会人を辞めて海外の博士課程に進学した事例
+- 🔴 [ちゅうげん（リクルート→Penn State）](海外/退職して博士/ちゅうげん.md)
+- 🔴 [tkm2261 / Takami Sato（→UC Irvine）](海外/退職して博士/tkm2261_Takami_Sato.md)
+- 🔴 [Ryo Kitamura（電機メーカー→Clemson）](海外/退職して博士/Ryo_Kitamura.md)
+- 🔴 [Tatsuyuki Sekine（宇宙tech→Hamburg）](海外/退職して博士/Tatsuyuki_Sekine.md)
+- 🔴 [Inoue（Web広告→Minnesota）](海外/退職して博士/Inoue.md)
+- 🔴 [Lupinus（日本語教育→Hawaii）](海外/退職して博士/Lupinus.md)
+- 🔴 [Yuko Suzuki（芸能→Imperial・37歳）](海外/退職して博士/Yuko_Suzuki.md)
+- 🔴 [Masaki Adachi（企業研究職→Oxford）](海外/退職して博士/Masaki_Adachi.md)
+- 🔴 [加々美（文科省→MIT）](海外/退職して博士/加々美.md)
+- 🔴 [明田悠希（化学メーカー→Northwestern）](海外/退職して博士/明田悠希.md)
+- 🔴 [根来葉子（ホテル人事→Penn State）](海外/退職して博士/根来葉子.md)
+- 🔴 [NorwegianWood（勤務医→NTNU）](海外/退職して博士/NorwegianWood.md)
+- 🔴 [Kazuki / 一輝（重工→Imperial・航空宇宙）](海外/退職して博士/Kazuki_一輝.md)
+- 🔴 [理系留学のすゝめ chem_phd_ca（→UBC）](海外/退職して博士/理系留学のすゝめ_chem_phd_ca.md)
+- 🔴 [Aishwarya（ホテル人事→LSE）](海外/退職して博士/Aishwarya.md)
+- 🔴 [Gohar Irfan C.（Microsoft→MIT）](海外/退職して博士/Gohar_Irfan_C.md)
 
 ### 社会人を続けながら博士（2件）
 - [三宮（看護師→Lancaster・公衆衛生）](海外/社会人を続けながら博士/三宮.md)

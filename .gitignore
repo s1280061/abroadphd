@@ -3,3 +3,6 @@
 *.tmp
 Thumbs.db
 .DS_Store
+
+# ローカルで生成したEPUB等のビルド成果物（リポジトリには含めない）
+build/

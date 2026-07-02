@@ -69,6 +69,15 @@
 - （参考・奨学金制度）フルブライト奨学金 https://www.fulbright.jp/scholarship/application/ ／ 船井情報科学振興財団 https://funaifoundation.jp/ ／ 中島記念国際交流財団（30歳以下・英検1級/TOEFL90/IELTS7.0）／ 平和中島財団（年齢・分野・国不問） http://www.hnf.jp/shogaku/
 - （参考・企業制度）LINEヤフー 社会人ドクター進学支援制度／NEC「R&D Doctor's Pass」（東工大と連携）／河野洋平「サラリーマンが博士号を取る意義」SICE誌 https://www.jstage.jst.go.jp/article/sicejl/62/6/62_338/_pdf
 
+### 海外・退職して博士（第4弾追加）
+- ★ セシル☆（@sesiru8）「諸事情で博士号が取れなかったが、働きながら海外の博士課程に合格した話」（南デンマーク大学・数学、TOEFL93） https://sesiru.com/2023/07/13/phd/
+- ★ 中島豊（国際交流基金13年→UNSW豪州・応用言語学/日本語教育、40歳目前） https://gakuiryugaku.net/blog/social-science-graduate-degrees-in-australia/
+- ★ Kei（民間企業→Arizona State University・地理学、TA資金）XPLANE https://xplane.jp/2021enroll-10-kei/
+- （参考）oxshator「米国ビジネススクールPhD留学日記」（メリーランド州立大・経営戦略→Assistant Professor。学部卒後ストレート進学のため社会人要件では未採用） https://oxshator.hatenablog.com/entry/2024/07/18/072519
+- （参考）吉永宏佑（MIT化学PhD→SAINT-GOBAIN。進学前の企業社会人歴は不明確） https://note.com/bostonseeds/n/nf3f43f0fa1e5
+- （参考）i_love_rice「ドイツの大学に雇用されながらPhD」（前職はJSPS特別研究員＝アカデミア） https://graduatestudyabroad.wordpress.com/2022/10/08/phdgermany1/
+- （参考・国内）白いごはん「会社を辞めて大学に戻って博士課程」（テック企業2年→国内で生命科学PhD） https://note.com/mypacebiomuswri/n/n0235819251f7
+
 ### 既存（海外）
 - ★ Aishwarya（LSE）"Back to school: my experience of starting a PhD after quitting my job" https://blogs.lse.ac.uk/studentsatlse/2023/11/01/back-to-school-my-experience-of-starting-a-phd-after-quitting-my-job/
 - ★ Gohar Irfan C.（MIT）"Why I left the tech industry for grad school" https://oge.mit.edu/why-i-left-the-tech-industry-for-grad-school/

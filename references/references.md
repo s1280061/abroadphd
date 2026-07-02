@@ -121,6 +121,29 @@
 - ICT for Development「海外PhDに興味を持ったら最初にしてはいけないこと」 https://ict4d.jp/2020/02/06/phd-not-do/
 - 海外日本人研究者ネットワーク（UJA） https://x.com/uja_info
 
+## ⚠️ 未検証19件（2026年7月・ネットワーク制限下でWebSearch要約のみにより追加）
+以下はサンドボックス環境のネットワーク制限でページ本文を直接取得できず、AI検索（WebSearch）の要約のみを根拠に追加した事例です。他の事例と異なり**一次情報の本文確認ができていません**。master.csv・各事例ファイルでは信頼度を「低（未検証）」としています。採用可否も含め、URLを開いて内容を確認してください。
+
+- ★（未検証） ngosuke（K's blog） https://ngosuke.hatenablog.com/entry/2021/02/14/151627
+- ★（未検証） ケイ（XPLANE） https://xplane.jp/2021enroll-10-kei/
+- ★（未検証） かっぺ（XPLANE） https://xplane.jp/2023enroll-9-kappe/
+- ★（未検証） Hina https://hina-survival.hatenablog.com/entry/2023/10/04/083207
+- ★（未検証） Haruno Suzuki（XPLANE） https://xplane.jp/enroll2023-11-suzuki/
+- ★（未検証） Sumiko（XPLANE） https://xplane.jp/enroll2025-2-sumiko/
+- ★（未検証） 八下田聖峰（note・経済セミナー編集部インタビュー） https://note.com/keisemi/n/n74b3ab42712d
+- ★（未検証） ぐる https://note.com/suguru_port/n/n199509da9f0a
+- ★（未検証） 白いごはん https://note.com/mypacebiomuswri/n/n0235819251f7
+- ★（未検証） K（出戻り大学院生） https://doctork-blog.com/2022/02/28/%E9%80%80%E8%81%B7%E3%81%97%E3%81%A6%E5%8D%9A%E5%A3%AB%E5%BE%8C%E6%9C%9F%E8%AA%B2%E7%A8%8B%E3%81%AB%E9%80%B2%E5%AD%A6%E3%81%97%E3%81%9F%E7%90%86%E7%94%B1/
+- ★（未検証） akiraTOSEI https://note.com/akira_tosei/n/nd0e47b30d9de
+- ★（未検証） 病院薬剤師（ポスドクの転職体験記） https://note.com/postdoc_career/n/n4d689284feff
+- ★（未検証） 山下恭佑 https://note.com/ymst_crpt/n/nefba5034e3b3
+- ★（未検証） 江端智一（EE Times Japan） https://eetimes.itmedia.co.jp/ee/articles/2512/11/news016_4.html
+- ★（未検証） 尾崎安範（alfredplpl） https://alfredplpl.hatenablog.com/entry/doctor
+- ★（未検証） Nekoace（猫壱） https://noraneko-career.blog/%E5%8D%9A%E5%A3%AB%E4%BD%93%E9%A8%93%E8%A8%981-%E5%8D%9A%E5%A3%AB%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%A6%99%E3%81%AA%E6%86%A7%E3%82%8C/
+- ★（未検証） muscle-phd https://muscle-phd.hatenablog.com/entry/2021/08/29/050823
+- ★（未検証） neko_ptx https://note.com/neko_ptx/n/ne8283e6d1c10
+- ★（未検証） Shuhei Iitsuka https://tushuhei.com/blog/how-to-get-a-phd-as-a-part-time-student/
+
 ## 補足
 - ★印以外は、制度理解や今後の事例拡張のための参考リンク。
 - 403 Forbidden / 接続不可でページ本文を取得できなかったものは、その旨を明記。

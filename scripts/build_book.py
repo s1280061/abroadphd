@@ -17,6 +17,7 @@ HEADER = """# 📖 社会人からの博士課程進学 事例集（通し読み
 
 > このファイルは全内容を1つにまとめた通し読み版です。スマホでの連続閲覧用。個別ページは [README.md](README.md) の目次から。
 > 🔴 マークは「社会人を辞めて海外の博士課程に進学した」事例です。
+> ❓ マークは、ネットワーク制限下でAI検索の要約のみに基づき追加した**未検証**の事例です（信頼度「低（未検証）」）。
 
 ---
 
@@ -34,14 +35,24 @@ PARTS = [
 HIGHLIGHT_COLOR = "#c0392b"
 
 
-def mark_heading(text: str) -> str:
-    """本文冒頭の '# 見出し' 行に 🔴 マーカーと色付けを追加する。"""
+def mark_heading(text: str, highlight: bool) -> str:
+    """本文冒頭の '# 見出し' 行に 🔴（海外退職）／❓（未検証）マーカーを追加する。"""
     lines = text.split("\n", 1)
     heading = lines[0]
     rest = lines[1] if len(lines) > 1 else ""
     assert heading.startswith("# "), f"unexpected heading: {heading!r}"
     title = heading[2:]
-    marked = f'# <span style="color:{HIGHLIGHT_COLOR}">🔴 {title}</span>'
+    prefix = ""
+    if "信頼度**: 低（未検証" in text:
+        prefix += "❓ "
+    if highlight:
+        prefix += "🔴 "
+    if not prefix:
+        return text
+    if highlight:
+        marked = f'# <span style="color:{HIGHLIGHT_COLOR}">{prefix}{title}</span>'
+    else:
+        marked = f"# {prefix}{title}"
     return marked + "\n" + rest
 
 
@@ -66,8 +77,7 @@ def main() -> None:
         files = sorted(case_dir.glob("*.md"))
         for f in files:
             body = read_clean(f)
-            if highlight:
-                body = mark_heading(body)
+            body = mark_heading(body, highlight)
             units.append((body, False))
 
     references = read_clean(ROOT / "references" / "references.md")
